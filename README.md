@@ -35,3 +35,7 @@ Steps:
 6. (if you don't have PIP for Python 2.x) install PIP:
 
 `sudo apt install python-pip`
+
+7. (if you don't have numpy module for Python 2.x) install numpy:
+
+`pip install numpy`
