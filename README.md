@@ -10,6 +10,8 @@ https://github.com/kylemcdonald/AudioNotebooks/blob/master/Collect%20Samples.ipy
 
 https://github.com/kylemcdonald/AudioNotebooks/blob/master/utils/__init__.py
 
+https://github.com/kylemcdonald/AudioNotebooks/blob/master/utils/list_all_files.py
+
 Steps:
 
 1. (if you don't have PIP for Python 3.x) install PIP:
