@@ -15,3 +15,7 @@ Steps:
 `pip3 install librosa`
 
 2. Put your *.wav sounds replacing them with names `ref_sound1.wav` / `ref_sound2.wav` / `ref_sound3.wav` / `ref_sound4.wav` in the folder `ref_sounds`
+
+3. Install Python 2.x to make Collect Sounds.py work.
+
+`sudo apt install python`
