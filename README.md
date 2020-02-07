@@ -8,6 +8,8 @@ https://github.com/googlecreativelab/aiexperiments-drum-machine/blob/master/scri
 
 https://github.com/kylemcdonald/AudioNotebooks/blob/master/Collect%20Samples.ipynb
 
+https://github.com/kylemcdonald/AudioNotebooks/blob/master/utils/__init__.py
+
 Steps:
 
 1. (if you don't have PIP for Python 3.x) install PIP:
