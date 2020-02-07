@@ -43,3 +43,7 @@ Steps:
 8. (if you don't have ffmpeg package) install ffmpeg:
 
 `sudo apt install ffmpeg`
+
+9. Run CollectSamples.py in Python 2.x
+
+10. Run analysis.py in Python 3.x
