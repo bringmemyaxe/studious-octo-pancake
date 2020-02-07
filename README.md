@@ -2,7 +2,11 @@ Inspired by and based on https://github.com/googlecreativelab/aiexperiments-drum
 
 Sources:
 
--- analysis.py is copied from https://github.com/googlecreativelab/aiexperiments-drum-machine/blob/master/scripts/analysis.py and edited by me.
+The following files were edited by me:
+
+https://github.com/googlecreativelab/aiexperiments-drum-machine/blob/master/scripts/analysis.py
+
+https://github.com/kylemcdonald/AudioNotebooks/blob/master/Collect%20Samples.ipynb
 
 Steps:
 
