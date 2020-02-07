@@ -9,3 +9,5 @@ Steps:
 1. Install librosa module if you don't have it
 
 `pip3 install librosa`
+
+2. Put your *.wav sounds replacing them with names `ref_sound1.wav` / `ref_sound2.wav` / `ref_sound3.wav` / `ref_sound4.wav` in the folder `ref_sounds`
