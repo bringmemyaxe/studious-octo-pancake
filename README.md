@@ -39,3 +39,7 @@ Steps:
 7. (if you don't have numpy module for Python 2.x) install numpy:
 
 `pip install numpy`
+
+8. (if you don't have ffmpeg package) install ffmpeg:
+
+`sudo apt install ffmpeg`
