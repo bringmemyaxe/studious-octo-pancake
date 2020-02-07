@@ -32,4 +32,6 @@ Steps:
 
 5. Put your *.wav sounds into /data/samples/
 
-6. 
+6. (if you don't have PIP for Python 2.x) install PIP:
+
+`sudo apt install python-pip`
