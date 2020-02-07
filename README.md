@@ -6,7 +6,7 @@ Sources:
 
 Steps:
 
-1. Install librosa module if you don't have it
+1. Install librosa module for Python 3.x if you don't have it
 
 `pip3 install librosa`
 
