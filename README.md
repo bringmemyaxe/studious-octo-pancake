@@ -14,7 +14,7 @@ Steps:
 
 `sudo apt install python3-pip`
 
-2. (if you don't have librosa module for Python 3.x): Install librosa:
+2. (if you don't have librosa module for Python 3.x) Install librosa:
 
 `pip3 install librosa`
 
@@ -27,3 +27,7 @@ Steps:
 5. (if you don't have PIP for Python 2.x) install PIP:
 
 `sudo apt install python-pip`
+
+6. (if you don't have numpy module for Python 2.x) install numpy:
+
+`pip install numpy`
