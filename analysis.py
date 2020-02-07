@@ -34,10 +34,10 @@ def analyse(file):
     return numpy.asarray([centroid, bandwidth])
 
 
-kick_values = analyse("./ref_sounds/Kick.mp3")
-snare_values = analyse("./ref_sounds/Snare.mp3")
-hihat_values = analyse("./ref_sounds/Hihat.mp3")
-open_values = analyse("./ref_sounds/Open.mp3")
+kick_values = analyse("./ref_sounds/ref_sound1.wav")
+snare_values = analyse("./ref_sounds/ref_sound2.wav")
+hihat_values = analyse("./ref_sounds/ref_sound3.wav")
+open_values = analyse("./ref_sounds/ref_sound4.wav")
 
 def get_distance(test_values):
     test_values = numpy.asarray(test_values)
