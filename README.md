@@ -28,10 +28,6 @@ Steps:
 
 `sudo apt install python`
 
-5. (if you don't have PIP for Python 2.x) install PIP:
+5. Put your *.wav sounds into /data/samples/
 
-`sudo apt install python-pip`
-
-6. (if you don't have numpy module for Python 2.x) install numpy:
-
-`pip install numpy`
+6. 
