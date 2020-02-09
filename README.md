@@ -47,3 +47,5 @@ Steps:
 9. Run CollectSamples.py in Python 2.x
 
 10. Run analysis.py in Python 3.x
+
+I'm going to make it more convenient for using with multiple ref_files 
