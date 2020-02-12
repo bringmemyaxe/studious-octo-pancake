@@ -24,7 +24,7 @@ Steps:
 
 `pip3 install librosa`
 
-3. Put your *.wav sounds replacing them with names `ref_sound1.wav` / `ref_sound2.wav` / `ref_sound3.wav` / `ref_sound4.wav` in the folder `ref_sounds`
+3. Put your *.wav sounds with any names in the folder `ref_sounds`
 
 4. (if you don't have Python 2.x) Install Python 2.x:
 
